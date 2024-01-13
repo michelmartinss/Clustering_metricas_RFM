@@ -13,9 +13,6 @@ promoções e ofertas aos clientes com base no comportamento de compras.
 O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilidade de entendimento, tornando a implementação direta, além de sua eficiência, sendo rápido e escalável para lidar com grandes conjuntos de dados, com uma abordagem acessível e eficaz para atingir os objetivos propostos.
 
 <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/94bccfaa-aa22-4a3d-aa4a-aa9cfbdeb83b" width="300">
-
-
-Gráfico 3D: Clusters
 <a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank"><img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/4bc2ee9a-0a9b-4b13-ad8c-1b5d3c3568ae" width="300" alt="Gráfico"></a>
 
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
