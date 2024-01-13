@@ -10,6 +10,7 @@ comum entre os clientes, como:
 A partir desses clusters é possível gerar insights para que a empresa possa segmentar melhor a sua base de clientes e personalizar as suas campanhas de marketing, direcionando
 promoções e ofertas aos clientes com base no comportamento de compras.
 
+O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilidade de entendimento, tornando a implementação direta, além de sua eficiência, sendo rápido e escalável para lidar com grandes conjuntos de dados, com uma abordagem acessível e eficaz para atingir os objetivos propostos.
 
 
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
