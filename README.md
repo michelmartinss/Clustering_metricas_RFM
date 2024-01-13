@@ -18,10 +18,10 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
     <a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank">
         <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/dcbbe6c4-cfbd-464b-84a0-ace007c7317b" width="270" alt="Gráfico" style="display: inline-block;">
     </a>
-</div>
-<br>
+<div>
+<div>
 <a href="https://www.kaggle.com/datasets/carrie1/ecommerce-data" target="_blank"> Fonte de dados
-<br>
+<div>
 
 Tecnologias utlizadas:
 <table border="0" style="border-collapse: collapse; border: none;">
