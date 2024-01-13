@@ -20,6 +20,9 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
         <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/dcbbe6c4-cfbd-464b-84a0-ace007c7317b" width="295" alt="Gráfico" style="display: inline-block;">
     </a>
 <div>
+![image](https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/3496f18e-2b68-492c-8e11-13810ba4505a)
+
+ 
 <br>
 <div>
     Fonte de dados: https://www.kaggle.com/datasets/carrie1/ecommerce-data
