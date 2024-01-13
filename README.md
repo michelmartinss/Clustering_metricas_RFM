@@ -20,7 +20,8 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
     </a>
 </div>
 <br>
-Fonte de dados: https://www.kaggle.com/datasets/carrie1/ecommerce-data    
+Fonte de dados: <a href="https://www.kaggle.com/datasets/carrie1/ecommerce-data" target="_blank">
+ 
 <br>
 
 Tecnologias utlizadas:
