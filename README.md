@@ -14,6 +14,9 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
 
 <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/94bccfaa-aa22-4a3d-aa4a-aa9cfbdeb83b" width="300">
 
+Gráfico 3D: Clustes
+<a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/Grafico_3D_cluster.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Gráfico"></a>
+
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 Tecnologias utlizadas:
