@@ -12,8 +12,9 @@ promoções e ofertas aos clientes com base no comportamento de compras.
 
 O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilidade de entendimento, tornando a implementação direta, além de sua eficiência, sendo rápido e escalável para lidar com grandes conjuntos de dados, com uma abordagem acessível e eficaz para atingir os objetivos propostos.
 
+
 <div>
-    <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/94bccfaa-aa22-4a3d-aa4a-aa9cfbdeb83b" width="300" style="display: inline-block">
+    <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/eb32413d-1fbf-44b5-9402-209af4a01fa7" width="300" style="display: inline-block">
     &nbsp;&nbsp;&nbsp;
     <a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank">
         <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/dcbbe6c4-cfbd-464b-84a0-ace007c7317b" width="270" alt="Gráfico" style="display: inline-block;">
