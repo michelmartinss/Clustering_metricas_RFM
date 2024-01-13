@@ -17,7 +17,7 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
     <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/eb32413d-1fbf-44b5-9402-209af4a01fa7" width="300" style="display: inline-block">
     &nbsp;&nbsp;&nbsp;
     <a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank">
-        <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/f107b00a-8dc2-43c1-b91d-949c2639c78d" width="285" alt="Gráfico" style="display: inline-block;">
+        <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/f107b00a-8dc2-43c1-b91d-949c2639c78d" width="290" alt="Gráfico" style="display: inline-block;">
     </a>
 <div>
  <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/3496f18e-2b68-492c-8e11-13810ba4505a" width="600">
