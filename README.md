@@ -1,4 +1,4 @@
-# Clustering_metricas_RFM
+# Clustering Metricas RFM
 Modelo de Clustering para agrupamento de perfis de clientes de E-commerce. 
 
 A finalidade da análise é agrupar os clientes em clusters com base em seu comportamento de compra. Isso irá permitir identificar padrões e características em
