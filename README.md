@@ -16,7 +16,7 @@ O algoritimo selecionado foi o K-means, por causa da sua simplicidade e facilida
 
 
 Gráfico 3D: Clusters
-<a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank"><img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/4bc2ee9a-0a9b-4b13-ad8c-1b5d3c3568ae" alt="Gráfico"></a>
+<a href="https://michelmartinss.github.io/Clustering_metricas_RFM/Grafico_3D_cluster.html" target="_blank"><img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/4bc2ee9a-0a9b-4b13-ad8c-1b5d3c3568ae" width="300" alt="Gráfico"></a>
 
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
