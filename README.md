@@ -1,8 +1,18 @@
 # Clustering_metricas_RFM
 Modelo de Clustering para agrupamento de perfis de clientes de E-commerce. 
 
+A finalidade da análise é agrupar os clientes em clusters com base em seu comportamento de compra. Isso irá permitir identificar padrões e características em
+comum entre os clientes, como:
+ - Clientes que compram os mesmos produtos;
+ - Clientes que possuem a mesma frequência de compras;
+ - Clientes que gastam mais dinheiro em suas compras.    
+
+A partir desses clusters é possível gerar insights para que a empresa possa segmentar melhor a sua base de clientes e personalizar as suas campanhas de marketing, direcionando
+promoções e ofertas aos clientes com base no comportamento de compras.
 
 
+
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 Tecnologias utlizadas:
 <table border="0" style="border-collapse: collapse; border: none;">
